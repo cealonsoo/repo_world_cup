@@ -14,6 +14,7 @@ function addTeam(){
 function listTeams(){
    // alert(teams);
    teams.forEach(addItem);
+   teams=[];
   
 }
 
